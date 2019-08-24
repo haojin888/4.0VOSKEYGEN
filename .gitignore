@@ -9,4 +9,4 @@ thinkphp
 think
 *.php
 *.txt
-composer
+/composer/
